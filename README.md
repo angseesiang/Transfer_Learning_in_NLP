@@ -96,7 +96,7 @@ clf("We are very happy to be a part of this LLM course")
 
 ## ✅ Learning outcomes
 
-By the end of this notebook, you should be able to:
+By the end of this notebook, I have learnt to:
 
 - Explain the benefits of transfer learning in NLP
 - Use `pipeline` for quick inference across common tasks
@@ -104,23 +104,3 @@ By the end of this notebook, you should be able to:
 - Load specific pretrained models and tokenizers
 - Adjust model configs for different label spaces / tasks
 
----
-
-## 🔧 Where to go next
-
-- **Fine‑tune** a model on a small dataset (e.g., SST‑2 for sentiment, CoNLL for NER)  
-- Try **other tasks**: question answering (`pipeline("question-answering")`), summarization, translation  
-- Explore **model distillation** and **quantization** for efficiency  
-- Compare **TensorFlow vs PyTorch** training loops and `Trainer`/`Keras` APIs
-
----
-
-## 🙏 Acknowledgements
-
-- Built with the excellent [🤗 Transformers](https://github.com/huggingface/transformers) library.
-
----
-
-## 📝 License
-
-Choose a license before publishing (e.g., MIT, Apache‑2.0). You can add a `LICENSE` file later.
